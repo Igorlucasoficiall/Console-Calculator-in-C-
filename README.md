@@ -14,6 +14,6 @@ Navigate to the project directory:
 cd Console-Calculator-in-C-
 
 Compile and run the project in the terminal with the command:
-dotnet run
+(_dotnet run_)
 Or if you are using Visual Studio, just press Ctrl + F5 to run the application.
 
