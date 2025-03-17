@@ -5,15 +5,15 @@ Requirements
 .NET Core or .NET Framework installed on your machine.
 Code editor (such as Visual Studio or Visual Studio Code).
 
-Como rodar o projeto
-Clone este repositório para sua máquina local:
+How to run the project
+Clone this repository to your local machine:
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-Navegue até o diretório do projeto:
+git clone https://github.com/Igorlucasoficiall/Console-Calculator-in-C-.git
 
-cd nome-do-repositorio
-Compile e execute o projeto no terminal com o comando:
+Navigate to the project directory:
+cd Console-Calculator-in-C-
 
+Compile and run the project in the terminal with the command:
 dotnet run
-Ou se estiver usando o Visual Studio, basta pressionar Ctrl + F5 para executar a aplicação.
+Or if you are using Visual Studio, just press Ctrl + F5 to run the application.
 
